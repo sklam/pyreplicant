@@ -1,0 +1,6 @@
+*.tgz
+*.bc
+*.o
+*.so
+test
+test-tl
